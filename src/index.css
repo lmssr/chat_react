@@ -1,0 +1,22 @@
+   // src/index.css
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+
+    .chat-button {
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+      background: #5E0565;
+      height: 50px;
+      font-size: 16px;
+      color: white;
+      padding: 10px;
+      border-radius: 5px;
+      border: 0;
+      box-shadow: 1px 1px 4px 1px grey;
+      cursor: pointer;
+    }
